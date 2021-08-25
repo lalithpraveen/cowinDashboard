@@ -1,4 +1,5 @@
-**Live link** https://strawhatcowin.ccbp.tech/
+**Straw-Hat**
+**Live link** https://strawhatcowin.ccbp.tech/ 
 
 In this project,  built a **CoWIN Dashboard** by applying the concepts I have learned till now.
 
